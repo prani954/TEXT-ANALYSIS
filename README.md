@@ -55,13 +55,6 @@ The compute_variables function performs text analysis to derive various metrics.
 ```
 These calculations provide a comprehensive analysis of the text's sentiment, readability, and linguistic characteristics.
 
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## To Run the script
 
 ```
@@ -92,27 +85,8 @@ pip install openpyxl
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+    git clone https://github.com/prani954/TEXT-ANALYSIS.git
 ```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
 
 ## License
 
