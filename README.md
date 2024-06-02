@@ -43,7 +43,7 @@ Libraries like BeautifulSoup, Selenium or Scrapy are used to extract text from w
 ## Data Analysis 
 
 The compute_variables function performs text analysis to derive various metrics. 
-```
+
 1) Positive and negative scores are calculated by matching words in the text against predefined dictionaries. 
 
 2) The polarity score assesses the overall sentiment, while the subjectivity score indicates the extent of personal opinion in the text. 
@@ -52,7 +52,7 @@ The compute_variables function performs text analysis to derive various metrics.
 
 4) Additional metrics include the average number of words per sentence, complex word count, overall word count, syllable count per word, personal pronouns count, and average word length.
 
-```
+
 These calculations provide a comprehensive analysis of the text's sentiment, readability, and linguistic characteristics.
 
 ## To Run the script
@@ -62,10 +62,7 @@ These calculations provide a comprehensive analysis of the text's sentiment, rea
 2) Click on New Notebook/New ipykernel.
 3) Copy and paste the Python script into a cell in the notebook.
 4) Run the cell by pressing Shift + Enter.
-
 ```
-
-
 
 
 
