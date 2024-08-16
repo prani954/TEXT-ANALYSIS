@@ -3,8 +3,6 @@
 
 # # Data Extraction and NLP
 
-# Test Assignment
-
 #import the necessary libraries
 from openpyxl import Workbook, load_workbook
 from bs4 import BeautifulSoup
