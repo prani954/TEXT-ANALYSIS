@@ -1,7 +1,7 @@
 
 # TEXT ANALYSIS
 
-The main aim of this project is extract textual data from article's URL and perform text analysis to compute variables
+The main aim of this project is extract textual data from an article's URL and perform text analysis to compute variables
 
 
 
